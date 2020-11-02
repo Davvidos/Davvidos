@@ -1,16 +1,37 @@
-### Hi there 👋
 
-<!--
-**Davvidos/Davvidos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi. I am David, a Full Stack Developer :computer: from Poland :poland:. 
+Currently I'm working in [Future Processing](https://www.future-processing.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```php
+<?php
+
+namespace DawidJurczynski;
+
+class About extends Me
+{
+    public function getSomeKnowledgeAboutMe()
+    {
+        return [
+            PHP::class,
+            Javascript::class,
+            MySql::class,
+            HTMLCSSJQUERYBOOSTRAP::class,
+            SYMFONYCODEIGNITERDRUPAL::class,
+            VAGRANTDOCKER::class,
+            ANSIBLE::class,
+            GIT::class,
+        ];
+    }
+}
+```
+
+Some facts about me:
+- :seedling: Currently working, learning and growing my skillset in full stack technologies,
+- :student: Master of Science - [Polish-Japanese Academy of Information Technology](https://www.pja.edu.pl/en/) (2020 - 2022),
+- :student: Master of Science - [WSB University](https://en.wsb.edu.pl/) (2020 - 2022),
+- :man_student: Bachelor of Science - [WSB University](https://en.wsb.edu.pl/) (2016 - 2020),
+- :speech_balloon: You can reach me:  [Linkedin](https://www.linkedin.com/in/dawid-j-5472371a5/),
+- :airplane: :mount_fuji: enjoy travelling,
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Davvidos&count_private=true&theme=react&show_icons=true)
