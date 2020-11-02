@@ -1,7 +1,7 @@
-Hi. I am David, a Full Stack Developer :computer: from Poland :poland:. 
-Currently I'm working in [Future Processing](https://www.future-processing.com/).
+### Hi 👋 I am David!
 
-![image](https://user-images.githubusercontent.com/27860422/97921421-37c7c300-1d5b-11eb-87f2-1a59bdbedfba.JPG)
+I am a Full Stack Developer :computer: from Poland :poland:.
+Currently working in [Future Processing](https://www.future-processing.com/).
 
 ```php
 <?php
@@ -25,6 +25,8 @@ class About extends Me
     }
 }
 ```
+
+![image1](https://user-images.githubusercontent.com/27860422/97922514-e4567480-1d5c-11eb-9e53-7f8168a3c1a1.JPG)
 
 **Some facts about me:**
 - :seedling: Currently working, learning and growing my skillset in full stack technologies,
