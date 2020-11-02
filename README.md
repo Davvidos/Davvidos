@@ -1,7 +1,7 @@
-
-
 Hi. I am David, a Full Stack Developer :computer: from Poland :poland:. 
 Currently I'm working in [Future Processing](https://www.future-processing.com/).
+
+![image](https://user-images.githubusercontent.com/27860422/97921421-37c7c300-1d5b-11eb-87f2-1a59bdbedfba.JPG)
 
 ```php
 <?php
@@ -16,9 +16,9 @@ class About extends Me
             PHP::class,
             Javascript::class,
             MySql::class,
-            HTMLCSSJQUERYBOOSTRAP::class,
-            SYMFONYCODEIGNITERDRUPAL::class,
-            VAGRANTDOCKER::class,
+            HTML_CSS_JQUERY_BOOSTRAP::class,
+            SYMFONY_CODEIGNITER_DRUPAL::class,
+            VAGRANT_DOCKER::class,
             ANSIBLE::class,
             GIT::class,
         ];
@@ -26,7 +26,7 @@ class About extends Me
 }
 ```
 
-Some facts about me:
+**Some facts about me:**
 - :seedling: Currently working, learning and growing my skillset in full stack technologies,
 - :student: Master of Science - [Polish-Japanese Academy of Information Technology](https://www.pja.edu.pl/en/) (2020 - 2022),
 - :student: Master of Science - [WSB University](https://en.wsb.edu.pl/) (2020 - 2022),
