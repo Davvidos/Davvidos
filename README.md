@@ -26,8 +26,6 @@ class About extends Me
 }
 ```
 
-![image1](https://user-images.githubusercontent.com/27860422/97922514-e4567480-1d5c-11eb-9e53-7f8168a3c1a1.JPG)
-
 **Some facts about me:**
 - :seedling: Currently working, learning and growing my skillset in full stack technologies,
 - :student: Master of Science - [Polish-Japanese Academy of Information Technology](https://www.pja.edu.pl/en/) (2020 - 2022),
